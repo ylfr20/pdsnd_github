@@ -25,11 +25,14 @@ def get_filters():
     month = input ("Please enter the month during H1 you are interested in. You can also enter all: ").lower()
     
     while month not in ['all','january', 'february', 'march', 'april', 'may', 'june']:
-        month = input("This month is not included in the data. Please enter a month during H1: ").lower()
+        month = input("This month is not included in the data. Please enter a month during H1 using full month name: ").lower()
     
     # get user input for day of week (all, monday, tuesday, ... sunday)
     day = input("Please enter the weekday you are interested in. You can also enter all: ").lower()
 
+    while day not in ['all','monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']:
+        day = input("This weekday is not included in the data. Please enter a weekday using full name: ").lower()
+    
     print('-'*40)
     return city, month, day
 
