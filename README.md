@@ -8,7 +8,9 @@ Title: US Bikeshare Data
 This project aims to explore data on bikesharing in three selected major US cities.
 
 ### Files used
-
-
+Files that are used in this project include:
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
