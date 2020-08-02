@@ -182,7 +182,7 @@ def display_data(df):
     
     if display_question1 == 'yes':
         while end_pos <= df.shape[0] - 1:
-            print(df.iloc[start_pos:end_pos, :])
+            print(df.sample(5))
             start_pos += 5
             end_pos += 5
             
