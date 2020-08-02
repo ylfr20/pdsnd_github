@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+The bikeshare project was created on 26th July 2020; the README file was created on 2nd August 2020.
 
 ### Project Title
-Replace the Project Title
+Title: US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project aims to explore data on bikesharing in three selected major US cities.
 
 ### Files used
-Include the files used
+
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
