@@ -1,8 +1,8 @@
-### Date created
-The bikeshare project was created on 26th July 2020; the README file was created on 2nd August 2020.
+### General
+This bikeshare project was created in July 2020 for Udacity Nanodegree Program _Programming in Data Science with Python_.
 
 ### Project Description
-In this project, I used python to explore data on bikesharing information from three selected US cities - Chicago, New York and Washington. The codes calculate certain **descriptive statistics** based on the interactive inputs given by the user. The script is written in Python 3 and can be executed in a Python IDE (e.g. Spyder).
+In this project, I used python to explore data on bike-sharing information from three selected US cities - Chicago, New York and Washington. The codes calculate certain descriptive statistics _based on the interactive inputs given by the user_. The script is written in Python 3 and can be executed in a Python IDE (e.g. Spyder).
 
 ### Descriptive Statistics
 The codes will provide statistics on:
@@ -10,7 +10,7 @@ The codes will provide statistics on:
 - Station
 - Trip duration
 - User
-... and exhibit raw data depending on user's request.
+- ... and exhibit raw data depending on user's request.
 
 ### Files used
 Files that are used in this project include:
